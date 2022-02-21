@@ -24,3 +24,5 @@ echo "you have not pick any sport, please enter between 1 to 4 to pick"
 ;;
 esac
 echo "we look forward to make you a pro"
+echo "Join us today and you will be conviced you did"
+echo " Thank you"
